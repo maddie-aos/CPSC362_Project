@@ -6,6 +6,9 @@ Class Time: M/W 09:30-11:20am
 
 Here is a recap of some of the stuff that we went over on Sunday!
 
+Tech Used: 
+React/Node Js, Firebase database 
+
 Meeting Times:
 
   - Asynchronous Check-Ins: M/W/F status reports due by EOD (11:59 pm)
