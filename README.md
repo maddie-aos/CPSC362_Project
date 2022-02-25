@@ -1,4 +1,4 @@
-# CPSC362_Project
+# CPSC362 Project Group 4
 
 Welcome to the repository for our group project!! 
 
