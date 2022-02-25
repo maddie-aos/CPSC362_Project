@@ -20,6 +20,7 @@ Norms:
   3. Stay Communicative
   4. Provide (polite) constructive criticism
   5. Make sure that everyone gets to share their ideas/concerns/questions/opinions
+  6. Debates settled by rock-paper-scissors
 
 
 Roles:
