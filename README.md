@@ -21,9 +21,9 @@ Norms:
 
 Roles:
    - Product Owner: Maddie
-   - Scrum Master: Christopher / Kenneth 
+   - Scrum Master: Christopher 
    - Tech Lead: Christina
-   - Team Member: Christopher / Kenneth 
+   - Team Member: Kenneth 
    - Team Member: Radhika 
    - Team Member: Justin 
   
