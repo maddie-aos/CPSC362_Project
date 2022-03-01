@@ -30,7 +30,10 @@ Roles:
    - Team Member: Kenneth 
    - Team Member: Radhika 
    - Team Member: Justin 
-  
-  
-  
+
+GitHub Repo for React App:
+  https://github.com/justincyk/justincyk.github.io.git
+
+Website:
+  https://justincyk.github.io/
   
