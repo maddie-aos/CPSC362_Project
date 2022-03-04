@@ -11,8 +11,8 @@ React/Node Js, Firebase database
 
 Meeting Times:
 
-  - Asynchronous Check-Ins: M/W/F status reports due by EOD (11:59 pm)
-  - Discord Weeekly Call: Th @ 7:15pm 
+  - Asynchronous Check-Ins: Daily status reports due by EOD (11:59 pm)
+  - Discord Weeekly Call: Th @ 7:15pm ~1hr
   
 Norms:
   1. All decisions must be made by unanimous vote
