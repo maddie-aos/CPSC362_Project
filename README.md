@@ -16,12 +16,21 @@ Meeting Times:
   
 Norms:
   1. All decisions must be made by unanimous vote
-  2. Weekly conference calls and 3 text check-ins a week (see above)
+  2. Weekly conference calls and 5 text check-ins a week (see above)
   3. Stay Communicative
   4. Provide (polite) constructive criticism
   5. Make sure that everyone gets to share their ideas/concerns/questions/opinions
   6. Debates settled by rock-paper-scissors
 
+
+Iteration 1:
+Login Team:
+  1. Chris
+  2. Kenneth
+Homepage Team:
+  1. Justin
+  2. Radhika
+  3. Christina
 
 Roles:
    - Product Owner: Maddie
