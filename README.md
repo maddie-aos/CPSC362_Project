@@ -23,7 +23,7 @@ Norms:
   6. Debates settled by rock-paper-scissors
 
 
-Iteration 1:
+Iteration 2:
 
 User Profile Team:
   1. Chris
