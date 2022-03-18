@@ -25,13 +25,13 @@ Norms:
 
 Iteration 1:
 
-Login Team:
+User Profile Team:
   1. Chris
-  2. Kenneth
+  2. Radhika
  
 Homepage Team:
   1. Justin
-  2. Radhika
+  2. Kenneth
   3. Christina
 
 Roles:
