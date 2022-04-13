@@ -23,23 +23,12 @@ Norms:
   6. Debates settled by rock-paper-scissors
 
 
-Iteration 2:
-
-User Profile Team:
-  1. Chris
-  2. Radhika
- 
-Homepage Team:
-  1. Justin
-  2. Kenneth
-  3. Christina
-
 Roles:
    - Product Owner: Maddie
    - Scrum Master: Christopher 
    - Tech Lead: Christina
    - Team Member: Kenneth 
-   - Team Member: Radhika 
+   - Team Member: Vanessa
    - Team Member: Justin 
 
 GitHub Repo for React App:
