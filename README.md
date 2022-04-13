@@ -4,7 +4,9 @@ Welcome to the repository for our group project!!
 
 Class Time: M/W 09:30-11:20am
 
-Here is a recap of some of the stuff that we went over on Sunday!
+Iteration 3 Ends: Friday APR 15, 2022
+Iteration 3 Prof Review: Wednesday APR 20, 2022
+Iteration 4 Start: Monday APR 18, 2022
 
 Tech Used: 
 React/Node Js, Firebase database 
